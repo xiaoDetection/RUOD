@@ -5,6 +5,13 @@ parper link: https://www.sciencedirect.com/science/article/abs/pii/S092523122201
 
 ## Dataset Download
 - GoogleDrive (3.4G): https://drive.google.com/file/d/1hxtbdgfVveUm_DJk5QXkNLokSCTa_E5o/view?usp=drive_link
+- Github: https://github.com/xiaoDetection/RUOD/releases/tag/untagged-4f7c7ab75187d68b6449
+  
+    Download `RUOD.tar.partaa` and `RUOD.tar.partab`, then run:
+    ```shell
+    cat RUOD.tar.part* > RUOD.tar
+    tar -xvf RUOD.tar
+    ```
 - alternate link: http://pan.dlut.edu.cn/share?id=ynp3v2tkkiiq
 
 ## Citing
